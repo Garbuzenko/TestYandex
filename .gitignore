@@ -1,0 +1,10 @@
+venv/*
+.idea/*
+*__pycache__*
+.gitattributes
+token/*
+*token*
+*.code-workspace
+*.DS_Store
+Thumbs.db
+/.vscode/
